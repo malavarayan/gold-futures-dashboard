@@ -1,13 +1,13 @@
 {
-  "id": 68,
-  "timestamp": "2026-03-29T12:37:00Z",
-  "price": 4500.9,
-  "change": 40.2,
-  "changePercent": 0.9,
-  "dayHigh": 4527.0,
-  "dayLow": 4461.8,
-  "volume": 198642,
-  "yearHigh": 4584.0,
-  "yearLow": 2672.0,
+  "id": 69,
+  "timestamp": "2026-03-29T15:38:00Z",
+  "price": 4495.05,
+  "change": 115.09,
+  "changePercent": 2.63,
+  "dayHigh": null,
+  "dayLow": null,
+  "volume": null,
+  "yearHigh": null,
+  "yearLow": null,
   "source": "COMEX"
 }
